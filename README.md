@@ -63,6 +63,6 @@ The application demonstrates:
 
 ## ✅ Screenshots
 
-![screenshot](screenshots/Screenshot 2026-05-14 020251.png)
-![screenshot](screenshots/Screenshot 2026-05-14 015953.png)
-![screenshot](screenshots/Screenshot 2026-05-14 020317.png)
+![screenshot1](screenshots/screenshot1.png)
+![screenshot2](screenshots/screenshot2.png)
+![screenshot3](screenshots/screenshot3.png)
